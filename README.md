@@ -11,7 +11,7 @@
 <br><br>
 
 <p align="center" width="300">
-    <h2 align="center">👨🏻‍💻¡Explora mis proyectos y conoce más!👨🏻‍💻</h3>
+    <h3 align="center">👨🏻‍💻¡Explora mis proyectos y conoce más!👨🏻‍💻</h3>
 </p>
 <br><br>
  # 💻 Tech Stack:
