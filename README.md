@@ -12,8 +12,11 @@ Un desarrollador Full-Stack con experiencia laboral y academica en la creación 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Javi-cba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
+
+<p align="center" width="350">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
