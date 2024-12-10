@@ -13,10 +13,8 @@ Un desarrollador Full-Stack con experiencia laboral y academica en la creación 
 
 
 
-<p align="center" width="350">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
-</p>
 
 
 
