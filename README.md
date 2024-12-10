@@ -1,19 +1,14 @@
 <p align="center" width="300">
    <h2 align="center">¡Hola 👋! Soy Javi! 👨🏻‍💻</h2>
 </p>
-
-👨‍💻 <strong>Desarrollador Full-Stack</strong> con experiencia en soluciones IT automatizadas, eficientes y escalables. 
-
-<br>  
-🌱 Apasionado por la <strong>innovación tecnológica</strong> y el <strong>aprendizaje continuo</strong>.
-
-<br>  
+👨‍💻 <strong>Desarrollador Full-Stack</strong> con experiencia en soluciones IT automatizadas, eficientes y escalables.  
+<br><br>  
+🌱 Apasionado por la <strong>innovación tecnológica</strong> y el <strong>aprendizaje continuo</strong>.  
+<br><br>  
 📚 Actualmente en la <strong>etapa final</strong> de mis estudios universitarios, combinando teoría y experiencia para afrontar nuevos desafíos.  
-
-<br>  
+<br><br>  
 🚀 Creo firmemente en el <strong>trabajo en equipo</strong>, la <strong>comunicación efectiva</strong> y en <strong>resolver problemas reales</strong>.  
-<br>  
-
+<br><br><br>  
 ¡Explora mis proyectos y conoce más!
 
  # 💻 Tech Stack:
