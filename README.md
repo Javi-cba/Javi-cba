@@ -8,7 +8,7 @@
 📚 Actualmente en la <strong>etapa final</strong> de mis estudios universitarios, combinando teoría y experiencia para afrontar nuevos desafíos.  
 <br><br>  
 🚀 Creo firmemente en el <strong>trabajo en equipo</strong>, la <strong>comunicación efectiva</strong> y en <strong>resolver problemas reales</strong>.  
-<br><br>
+<br>
 <p align="center" width="300">
     <h3 align="center">👨🏻‍💻 ¡Explora mis proyectos y conoce más! 👨🏻‍💻</h3>
 </p>
