@@ -10,7 +10,7 @@
 🚀 Creo firmemente en el <strong>trabajo en equipo</strong>, la <strong>comunicación efectiva</strong> y en <strong>resolver problemas reales</strong>.  
 <br>
 <p align="center" width="300">
-    <h3 align="center">👨🏻‍💻 ¡Explora mis proyectos y conoce más! 👨🏻‍💻</h3>
+    <h3 align="center">👨🏻‍💻 ¡Te invito a explorar mis proyectos! 👨🏻‍💻</h3>
 </p>
 <br><br>  
 
