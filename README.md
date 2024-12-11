@@ -5,7 +5,7 @@
 <br><br>  
 🌱 Apasionado por la <strong>innovación tecnológica</strong> y el <strong>aprendizaje continuo</strong>.  
 <br><br>  
-📚 Actualmente en la <strong>etapa final</strong> de mis estudios universitarios, combinando teoría y experiencia para afrontar nuevos desafíos.  
+📚 Actualmente en la <strong>etapa final</strong> de mis estudios, combinando teoría y experiencia para afrontar nuevos desafíos.  
 <br><br>  
 🚀 Creo firmemente en el <strong>trabajo en equipo</strong>, la <strong>comunicación efectiva</strong> y en <strong>resolver problemas reales</strong>.  
 <br>
