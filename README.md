@@ -5,9 +5,9 @@
 <br><br>  
 🌱 Apasionado por la <strong>innovación tecnológica</strong> y el <strong>aprendizaje continuo</strong>.  
 <br><br>  
-📚 Actualmente en la <strong>etapa final</strong> de mis estudios, combinando teoría y experiencia para afrontar nuevos desafíos.  
+📚 He terminado <strong>mis estudios</strong> y ahora me encuentro en la fase final para formalizar mi titulación. 
 <br><br>  
-🚀 Creo firmemente en el <strong>trabajo en equipo</strong>, la <strong>comunicación efectiva</strong> y en <strong>resolver problemas reales</strong>.  
+🚀  Siempre dispuesto a aportar <strong>mi experiencia</strong> y aprender de cada paso en el camino.  
 <br>
 <p align="center" width="300">
     <h3 align="center">👨🏻‍💻 ¡Te invito a explorar mis proyectos! 👨🏻‍💻</h3>
