@@ -5,7 +5,7 @@
 <br><br>  
 🌱 Apasionado por la <strong>innovación tecnológica</strong> y el <strong>aprendizaje continuo</strong>.  
 <br><br>  
-📚 He terminado <strong>mis estudios</strong> y ahora me encuentro en la fase final para formalizar mi titulación. 
+📚 He terminado <strong>mis estudios</strong> y ahora me encuentro en la <strong>fase final</strong> para formalizar mi titulación. 
 <br><br>  
 🚀  Siempre dispuesto a aportar <strong>mi experiencia</strong> y aprender de cada paso en el camino.  
 <br>
