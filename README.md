@@ -34,11 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javi-cba/javi-cba/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javi-cba/javi-cba/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/javi-cba/javi-cba/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 
 
