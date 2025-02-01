@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h2 align="center">¡Hola 👋! Soy Javi! 👨🏻‍💻</h2>
+   <h2 align="center">¡Hola 👋! Soy Javi! 👨🏻‍💻</h2> 
 </p>
 👨‍💻 <strong>Desarrollador Full-Stack</strong> con experiencia en soluciones IT automatizadas, eficientes y escalables.  
 <br><br>  
