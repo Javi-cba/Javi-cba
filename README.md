@@ -33,9 +33,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
 
-<center>
-   ![snake gif](https://github.com/javi-cba/javi-cba/blob/output/github-contribution-grid-snake.gif)
-</center>
+
+![snake gif](https://github.com/javi-cba/javi-cba/blob/output/github-contribution-grid-snake.gif)
 
 
 
