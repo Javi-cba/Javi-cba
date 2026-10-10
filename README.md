@@ -25,7 +25,9 @@
 
 ## Contribuciones en el perfil laboral
 [Ver mi perfil laboral](https://github.com/javi-notchatbot)
+
 [![contribuciones](https://raw.githubusercontent.com/javi-notchatbot/javi-notchatbot/output/github-contribution-grid-capybara-dark.gif)](https://github.com/javi-notchatbot)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Javi-cba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
