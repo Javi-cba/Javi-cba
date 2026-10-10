@@ -34,7 +34,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
 
 
-![snake gif](https://github.com/javi-cba/javi-cba/blob/output/github-contribution-grid-snake.gif)
+## Contribuciones en el perfil laboral
+https://github.com/javi-notchatbot
+![snake gif](https://github.com/javi-cba/javi-notchatbot/blob/output/github-contribution-grid-snake.gif)
 
 
 
