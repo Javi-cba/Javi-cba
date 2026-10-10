@@ -26,6 +26,7 @@
 
 ## Contribuciones en el perfil laboral
 [![contribuciones](https://raw.githubusercontent.com/javi-notchatbot/javi-notchatbot/output/github-contribution-grid-capybara-dark.gif)](https://github.com/javi-notchatbot)
+
 [Ver mi perfil laboral](https://github.com/javi-notchatbot)
 
 
