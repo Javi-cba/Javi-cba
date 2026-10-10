@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/javi-notchatbot/javi-notchatbot/output/github-contribution-grid-capybara-dark.gif" alt="Contribuciones laborales" width="100%" />
   </a>
   <br />
-  <a href="https://github.com/javi-notchatbot"><b>👉 Ver mi perfil laboral</b></a>
+  <a href="https://github.com/javi-notchatbot"><b>Ver mi perfil laboral</b></a>
 </p>
 
 # 📊 GitHub Stats:
