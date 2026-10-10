@@ -23,6 +23,12 @@
 <br>  
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
+## Contribuciones en el perfil laboral
+[![snake gif](https://raw.githubusercontent.com/javi-notchatbot/javi-notchatbot/output/github-contribution-grid-snake.gif)](https://github.com/javi-notchatbot)
+
+[Ver mi perfil laboral](https://github.com/javi-notchatbot)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Javi-cba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Javi-cba&theme=dark&hide_border=false)
@@ -32,12 +38,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javi-cba) 
-
-
-## Contribuciones en el perfil laboral
-https://github.com/javi-notchatbot
-![snake gif](https://github.com/javi-notchatbot/javi-notchatbot/blob/output/github-contribution-grid-snake.gif)
-
 
 
 
